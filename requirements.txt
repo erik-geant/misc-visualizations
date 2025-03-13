@@ -2,4 +2,6 @@ pandas
 numpy
 plotly
 openpyxl
+dash
+jupyter-dash
 jupyterlab
