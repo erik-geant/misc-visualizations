@@ -3,5 +3,6 @@ numpy
 plotly
 openpyxl
 dash
+kaleido
 jupyter-dash
 jupyterlab
